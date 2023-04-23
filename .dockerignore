@@ -1,0 +1,8 @@
+Dockerfile
+.dockerignore
+build
+node_modules
+npm-debug.log
+README.md
+.git
+*.tsbuildinfo
